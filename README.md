@@ -8,3 +8,8 @@ inspiration
 1. http://features.yaledailynews.com/blog/2015/01/23/sex-isnt-always-safe-at-yale/?utm_source=rss&utm_medium=rss&utm_campaign=sex-isnt-always-safe-at-yale
 1. http://www.nytimes.com/2015/02/08/nyregion/stream-of-foreign-wealth-flows-to-time-warner-condos.html?hp&action=click&pgtype=Homepage&module=photo-spot-region&region=top-news&WT.nav=top-news&_r=0
 1. http://espn.go.com/espn/feature/story/_/id/12321274/alex-rodriguez-return-new-york-yankees
+1. http://www.nytimes.com/trending/
+1. http://www.nytimes.com/interactive/2015/06/09/world/middleeast/obama-isis-strategy.html (for Harvard admins)
+1. http://newsinteractive.post-gazette.com/thedigs/2015/06/03/more-aerial-views-of-old-pittsburgh/
+1. http://www.nytimes.com/interactive/2015/06/10/world/asia/north-korea-photos-video.html?_r=0
+1. http://www.nytimes.com/interactive/2015/07/15/science/space/new-horizons-pluto-flyby-photos.html?action=Click&contentCollection=BreakingNews&contentID=37533464&pgtype=article
