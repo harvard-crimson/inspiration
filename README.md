@@ -13,3 +13,7 @@ inspiration
 1. http://newsinteractive.post-gazette.com/thedigs/2015/06/03/more-aerial-views-of-old-pittsburgh/
 1. http://www.nytimes.com/interactive/2015/06/10/world/asia/north-korea-photos-video.html?_r=0
 1. http://www.nytimes.com/interactive/2015/07/15/science/space/new-horizons-pluto-flyby-photos.html?action=Click&contentCollection=BreakingNews&contentID=37533464&pgtype=article
+
+sidebar
+-------
+http://www.nytimes.com/2015/08/11/us/50-years-after-watts-riots-a-recovery-is-in-progress.html?emc=edit_th_20150811&nl=todaysheadlines&nlid=68665612&_r=0
