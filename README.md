@@ -17,3 +17,7 @@ inspiration
 sidebar
 -------
 http://www.nytimes.com/2015/08/11/us/50-years-after-watts-riots-a-recovery-is-in-progress.html?emc=edit_th_20150811&nl=todaysheadlines&nlid=68665612&_r=0
+
+gallery
+-------
+http://www.newyorker.com/culture/photo-booth/youth-culture-in-the-new-cuba?mbid=nl_071615_Daily&CNDID=31059347&mbid=nl_071615_Daily&CNDID=31059347&spMailingID=7909713&spUserID=MTA0Mjk2Nzg4OTIzS0&spJobID=722068206&spReportId=NzIyMDY4MjA2S0
